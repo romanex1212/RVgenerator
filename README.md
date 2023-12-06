@@ -17,8 +17,13 @@ pip install dist/random_variate_generator-0.1.0-py3-none-any.whl
 python -m unittest tests/test_random_variate.py
 ```
 
-## Usage
+### Code Locations
 
+The main functions are located in random_variate_generator/random_variate.py
+
+The test functions are located in tests/test_random_variate.py
+
+## Usage
 
 ```python
 from random_variate_generator import random_variate
